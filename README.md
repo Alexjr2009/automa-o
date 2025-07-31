@@ -1,2 +1,2 @@
-# automa-o
+# automacao
 automação para desenho no pente
